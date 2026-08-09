@@ -265,7 +265,7 @@ Perhitungan Harga     Fuzzy Tsukamoto
                          Selesai
 
 ## Screenshot
-CONTOH: ![Dashboard](docs/screenshots/dashboard.png)
+CONTOH: ![Dashboard](<img width="1341" height="644" alt="Image" src="https://github.com/user-attachments/assets/d5a82bae-4bab-4282-abc9-046ec2e16f34" />)
 
 ## Tujuan
 Project ini dibuat untuk menerapkan sistem informasi berbasis web pada usaha fotocopy dan percetakan serta menerapkan metode Fuzzy Logic Tsukamoto untuk membantu menentukan prioritas pengerjaan pesanan.
